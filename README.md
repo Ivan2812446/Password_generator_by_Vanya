@@ -113,7 +113,7 @@ python main.py
 
 ## 📖 Использование / Usage
 
-###🔑 Первый запуск / First run
+### 🔑 Первый запуск / First run
 **Русский:**
 - При первом запуске установите мастер-пароль
 - Запомните мастер-пароль - без него доступ к данным невозможен
@@ -124,7 +124,7 @@ python main.py
 - Remember master password - data access is impossible without it
 - Start creating and saving passwords
 
-###🎰 Генерация паролей / Password generation
+### 🎰 Генерация паролей / Password generation
 **Русский:**
 - Перейдите во вкладку "Генератор"
 - Настройте длину и символы
@@ -137,7 +137,7 @@ python main.py
 - Click "Generate Password"
 Password will be automatically copied to clipboard
 
-💾 Сохранение паролей / Saving passwords
+### 💾 Сохранение паролей / Saving passwords
 **Русский:**
 - Введите сайт и логин
 - Нажмите "Сохранить в хранилище"
@@ -148,42 +148,49 @@ Password will be automatically copied to clipboard
 - Click "Save to Vault"
 Password will be encrypted and saved
 
-## 📱 Author's Social Media / Соцсети автора
-* **GitHub** - [Ivan2812446](https://github.com/Ivan2812446) 🐙
-* **Telegram** - [python_by_vanya](https://t.me/python_by_vanya) ✈️
-* **Kwork** - [Sergeev_Ivan](https://kwork.ru/user/Sergeev_Ivan) 💼
+---
 
-🤝 Поддержка / Support
-Русский:
-Нашли баг или есть предложение? Создайте issue в репозитории или напишите в Telegram.
-
-English:
-Found a bug or have a suggestion? Create an issue in repository or write in Telegram.
-
-🔒 Безопасность / Security
-Русский:
-
-🔐 Все пароли шифруются перед сохранением
-
-🗝️ Мастер-пароль никогда не сохраняется в открытом виде
-
-📱 Данные хранятся только локально на вашем устройстве
-
+### 🔒 Безопасность / Security
+- 🔐 Все пароли шифруются перед сохранением
+- 🗝️ Мастер-пароль никогда не сохраняется в открытом виде
+- 📱 Данные хранятся только локально на вашем устройстве
 🚫 Приложение не требует подключения к интернету
 
 English:
-
-🔐 All passwords are encrypted before saving
-
-🗝️ Master password is never stored in plain text
-
-📱 Data is stored only locally on your device
-
+- 🔐 All passwords are encrypted before saving
+- 🗝️ Master password is never stored in plain text
+- 📱 Data is stored only locally on your device
 🚫 Application doesn't require internet connection
 
-📄 Лицензия / License
-Этот проект распространяется под лицензией MIT.
+---
+
+**Ванёк / Vanek**
+
+- 💼 **GitHub:** [Ivan2812446](https://github.com/Ivan2812446)
+- 📝 **Telegram:** [Ivans_Tech_Notes](https://t.me/Ivans_Tech_Notes)
+- 💰 **Kwork:** [Sergeev_Ivan](https://kwork.ru/user/Sergeev_Ivan)
+
+---
+
+## 🤝 Поддержка / Support
+
+**Русский:**  
+Нашли баг или есть предложение? Создайте issue в репозитории или напишите в Telegram.
+
+**English:**  
+Found a bug or have a suggestion? Create an issue in repository or write in Telegram.
+
+---
+
+## 📄 Лицензия / License
+
+Этот проект распространяется под лицензией MIT.  
 This project is licensed under MIT License.
 
+---
+
 <div align="center">
-⭐ Если вам понравился проект, поставьте звезду на GitHub! / If you like this project, give it a star! ⭐
+
+**⭐ Если вам понравился проект, поставьте звезду на GitHub! / If you like this project, give it a star! ⭐**
+
+</div>
